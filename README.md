@@ -51,6 +51,13 @@ Knowledge | Want present in event
 ----------|:---------------------:
 Decision Trees | :loudspeaker: |
 Information Gain | |
+Probability | |
+Gaussians | |
+Maximum Likelihood Estimation  | |
+[Cross Validation](http://www.autonlab.org/tutorials/overfit10.pdf) | |
+[Regression and Classification - Neural Networks](http://www.autonlab.org/tutorials/neural13.pdf) | |
+[Instance-based learning](http://www.autonlab.org/tutorials/mbl08.pdf) | |
+Bayes Net | |
 Neural Networks | :loudspeaker: |
 Machine Learning | |
 
@@ -70,17 +77,19 @@ Database | Technology
 
 What's a most effective way to learn more about apps than publishing?
 
-App  | Objective | Technology  | Complexity  |
------|-----------|-------------|-------------|
-Smartwatch |  Create some cool smartwatches  | Android Native | High |
-App for Kids | Teach animal names, color and numbers | Hibrid - Phonegap | Simple |
-App for Kids | Teach animal names, color and numbers | ReactNative | Simple | 
-Instagram client | Show photos by geolocation or context | Android Native | Intermediate |
-Windows Store App | Math game for kids | C# Windows Native | Intermediate |
-Windows Phone App | Math game for kids | C# Native API |  Intermediate |
-Javascript Desktop Application | Build a desktop version |   | Intermediate |
+"Where I am"
+
+App  | Description | Target Platform | Technology  | Complexity  |
+-----|-------------|-----------------|-------------|-------------|
+Smartwatch Watchface |  Create some cool Watchfaces  | Android Wear | Android Native | High |
+App for Kids | Teach animal names, color and numbers | Windows Phone + Android + iOS |   Hibrid - Phonegap | Simple |
+"Who is my friend?" | See how much each of yours friends really know about you | Android + iOS | ReactNative | Simple | 
+Instagram client | Show photos by geolocation or context | Android | Java | Intermediate |
+Math game | Math game for kids | Windows 7, 8 and 10 | C# | Intermediate |
+"Where I am" | Try to discovery where your friend are by pictures | Windows Phone + Android + iPhone | Xamarin |  Intermediate |
+Javascript Desktop Application | Build a desktop version | Desktop for Windows + Mac | Intermediate |
 SmartTv App | Must think in something using streaming | Samsumg Smart View SDK |  Intermediate  |
-ChromeCast App | Math game for kids | html + javascript + android native | Intermediate |
+ChromeCast App | Math game for kids | ChromeCast + Android | HTML + Javascript + Java | Intermediate |
 
 
 ## Books to read
