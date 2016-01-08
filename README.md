@@ -11,25 +11,25 @@ After reading ["Write Code Every Day"](https://medium.com/@efexen/write-code-eve
 
 My plan here are focus more on technologies I already  know.
 
-Language / Methodology | Studying | Want present in event
--------|----------|:-----------:|
-**Javascript** |  |  |
-Promisses |  |  |
-ES6/Babel | :eight_spoked_asterisk: |  |
-React |  | :loudspeaker: |
-ReactNative |  | :loudspeaker: |
-[Handlebars](http://handlebarsjs.com/) |  | :loudspeaker: |
-**PHP** |  |  |
-Silex |  |  |
-Laravel |  |  |
-PHP 7 |   |:loudspeaker: |
-**C#** |  |  |
-Caching | |  |
-**Java** | |  |
-Canvas |   | :loudspeaker: |
-**Frontend** | |  |
-Bootstrap, MDL and related | |  |
-CSS pre compilers |  |  |
+Language / Methodology | Studying | Repository | Want present in event
+-----------------------|----------|:----------:|:---------------------:
+**Javascript** |  |  
+Promisses |  |  | 
+ES6/Babel | :eight_spoked_asterisk: | [javascript_study](https://github.com/TiagoGouvea/javascript_study) |  
+React |  | | :loudspeaker: 
+ReactNative |  | | :loudspeaker: 
+[Handlebars](http://handlebarsjs.com/) |  | | :loudspeaker: 
+**PHP** |  |  | 
+Silex |  |  | 
+Laravel |  |  | 
+PHP 7 |  |  |:loudspeaker: 
+**C#** |  |  | 
+Caching | |  | 
+**Java** | |  | 
+Canvas | |   | :loudspeaker: 
+**Frontend** | |  | 
+Bootstrap, MDL and related | |  | 
+CSS pre compilers |  |  | 
 
 
 ## Advanced programming
@@ -49,30 +49,30 @@ Reactive programming | |
 
 I want to extract from my databases more that SQL can give me and use it smartly.
 
-Knowledge | Want present in event
-----------|:---------------------:
-Decision Trees | :loudspeaker: |
-Information Gain | |
-Probability | |
-Gaussians | |
-Maximum Likelihood Estimation  | |
-[Cross Validation](http://www.autonlab.org/tutorials/overfit10.pdf) | |
-[Regression and Classification - Neural Networks](http://www.autonlab.org/tutorials/neural13.pdf) | |
-[Instance-based learning](http://www.autonlab.org/tutorials/mbl08.pdf) | |
-Bayes Net | |
-Neural Networks | :loudspeaker: |
-Machine Learning | |
+Knowledge | Studying | Want present in event
+----------|:--------:|:---------------------:
+Decision Trees |     | :loudspeaker: |
+Information Gain | | | 
+Probability | | | 
+Gaussians | | | 
+Maximum Likelihood Estimation  | | | 
+[Cross Validation](http://www.autonlab.org/tutorials/overfit10.pdf) | | | 
+[Regression and Classification - Neural Networks](http://www.autonlab.org/tutorials/neural13.pdf) | | |
+[Instance-based learning](http://www.autonlab.org/tutorials/mbl08.pdf) | | |
+Bayes Net | | |
+Neural Networks |  |  :loudspeaker: | 
+Machine Learning | | | 
 
 
 ## Database
 
 Let's learn some more about data storage.
 
-Database | Technology
----------|-----------
-**Mysql** | Json Data Typestore |
-**Firebase** |                  |
-**SQLServer**  | Advanced Procedures | 
+Database | Technology | Studying | Repository | Want present in event
+---------|------------|:--------:|:----------:|:--------------------:
+**Mysql** | Json Data Typestore |  | | :loudspeaker:
+**Firebase** |        |:eight_spoked_asterisk: | [firebase_study](https://github.com/TiagoGouvea/firebase_study) |  :loudspeaker: 
+**SQLServer**  | Advanced Procedures |  | 
 
 
 ## Publish
