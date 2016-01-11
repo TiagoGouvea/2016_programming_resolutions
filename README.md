@@ -11,25 +11,25 @@ After reading ["Write Code Every Day"](https://medium.com/@efexen/write-code-eve
 
 My plan here are focus more on technologies I already  know.
 
-Language / Methodology | Studying | Repository | Want present in event
------------------------|----------|:----------:|:---------------------:
-**Javascript** |  |  
-Promisses |  |  | 
-ES6/Babel | :eight_spoked_asterisk: | [javascript_study](https://github.com/TiagoGouvea/javascript_study) |  
-React |  | | :loudspeaker: 
-ReactNative |  | | :loudspeaker: 
-[Handlebars](http://handlebarsjs.com/) |  | | :loudspeaker: 
-**PHP** |  |  | 
-Silex |  |  | 
-Laravel |  |  | 
-PHP 7 |  |  |:loudspeaker: 
-**C#** |  |  | 
-Caching | |  | 
-**Java** | |  | 
-Canvas | |   | :loudspeaker: 
-**Frontend** | |  | 
-Bootstrap, MDL and related | |  | 
-CSS pre compilers |  |  | 
+Language / Methodology | Learned | Studying | Repository | Want present in event
+-----------------------|:-------:|:---------|:----------:|:---------------------:
+**Javascript** |  |  |  
+Promisses |  |  | |  
+ES6/Babel |  |  :eight_spoked_asterisk: | [javascript_study](https://github.com/TiagoGouvea/javascript_study) |  
+React |  | |  | :loudspeaker: 
+ReactNative | |   | | :loudspeaker: 
+[Handlebars](http://handlebarsjs.com/) |  | | |  :loudspeaker: 
+**PHP** |  |  | |  
+Silex |  |  | |  
+Laravel |  |  | |  
+PHP 7 |  |  |  |  :loudspeaker: 
+**C#** |  |  | |  
+Caching | |  | |  
+**Java** | |  | |  
+Canvas | |   | |  :loudspeaker: 
+**Frontend** | |  | |  
+Bootstrap, MDL and related | |  | |  
+CSS pre compilers |  |  | |  che
 
 
 ## Advanced programming
@@ -68,11 +68,11 @@ Machine Learning | | |
 
 Let's learn some more about data storage.
 
-Database | Technology | Studying | Repository | Want present in event
----------|------------|:--------:|:----------:|:--------------------:
-**Mysql** | Json Data Typestore |  | | :loudspeaker:
-**Firebase** |        |:eight_spoked_asterisk: | [firebase_study](https://github.com/TiagoGouvea/firebase_study) |  :loudspeaker: 
-**SQLServer**  | Advanced Procedures |  | 
+Database | Technology | Learned | Studying | Repository | Want present in event
+---------|------------|:-------:|:--------:|:----------:|:--------------------:
+**Mysql** | Json Data Typestore | |  | | :loudspeaker:
+**Firebase** |        | :white_check_mark: |  | [firebase_study](https://github.com/TiagoGouvea/firebase_study) |  :loudspeaker: 
+**SQLServer**  | Advanced Procedures |  | | 
 
 
 ## Publish
