@@ -28,6 +28,7 @@ Caching | |  | |
 **Java** | |  | |  
 Canvas | |   | |  :loudspeaker: 
 **Frontend** | |  | |  
+[Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) |  |  :eight_spoked_asterisk:  |  |
 Bootstrap, MDL and related | |  | |  
 CSS pre compilers |  |  | |  che
 
