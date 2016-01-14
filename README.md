@@ -6,6 +6,7 @@
 
 After reading ["Write Code Every Day"](https://medium.com/@efexen/write-code-every-day-aab8c7c192f5#.il9ia02kd) from Ville Hellman (that was inspired by John Resig ["Write Code Every Day"](http://ejohn.org/blog/write-code-every-day/) I decided to write a list of things I want to learn in 2016 (not everything neither so little) and start the year commiting it.
 
+I'm using [GithubPulse](https://github.com/tadeuzagallo/GithubPulse) from my friend [TadeuZagallo](https://github.com/tadeuzagallo/) to remember me to commit every day .
 
 ## Programming
 
@@ -29,7 +30,8 @@ Caching | |  | |
 Canvas | |   | |  :loudspeaker: 
 **Frontend** | |  | |  
 [Flexbox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) |  |  :eight_spoked_asterisk:  |  |
-Bootstrap, MDL and related | |  | |  
+Bootstrap | |  | |  
+[MDL](http://www.getmdl.io) | | :eight_spoked_asterisk: | [mdl_study](https://github.com/TiagoGouvea/mdl_study) |
 CSS pre compilers |  |  | |  che
 
 
