@@ -78,6 +78,13 @@ Database | Technology | Learned | Studying | Repository | Want present in event
 **SQLServer**  | Advanced Procedures |  | | 
 
 
+## Marketing, SEO
+
+Tool     | Learned | Studying | Want present in event
+---------|:-------:|:--------:|:--------------------:
+**Google WebMaster Tools** |  | | :loudspeaker: 
+**Google Analytics** |  | | :loudspeaker: 
+
 ## Publish
 
 What's a most effective way to learn more about apps than publishing?
